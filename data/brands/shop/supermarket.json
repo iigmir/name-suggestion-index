@@ -8077,6 +8077,7 @@
       },
       "tags": {
         "brand": "Spinneys",
+        "brand:wikidata": "Q2890701",
         "name": "Spinneys",
         "shop": "supermarket"
       }
@@ -8989,6 +8990,18 @@
       }
     },
     {
+      "displayName": "Torba",
+      "id": "torba-94881c",
+      "locationSet": {"include": ["ua"]},
+      "matchNames": ["торба"],
+      "tags": {
+        "brand": "Torba",
+        "brand:wikidata": "Q140402744",
+        "name": "Torba",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "Tottus",
       "id": "tottus-b9e971",
       "locationSet": {"include": ["cl", "pe"]},
@@ -9101,6 +9114,7 @@
       "locationSet": {"include": ["es"]},
       "tags": {
         "brand": "Unide",
+        "brand:wikidata": "Q126737030",
         "name": "Unide",
         "shop": "supermarket"
       }
